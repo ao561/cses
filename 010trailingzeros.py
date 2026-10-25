@@ -1,5 +1,4 @@
 import sys
-import math
  
 def solve():
     input_text = sys.stdin.read().strip()
